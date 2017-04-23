@@ -1,3 +1,3 @@
-# Codility lessons with Javascript
+# Codility lesson solutions with Javascript
 
 https://codility.com/programmers/lessons/
